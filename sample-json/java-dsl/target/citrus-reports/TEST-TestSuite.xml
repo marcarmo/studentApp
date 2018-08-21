@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="TestSuite" time="0.0" tests="5" errors="0" skipped="0" failures="0">
+    <testcase name="TodoListIT.testJsonPayloadDeleteValidation" classname="com.consol.citrus.samples.todolist.TodoListIT" time="0.0"/>
+    <testcase name="TodoListIT.testJsonPayloadGetValidation" classname="com.consol.citrus.samples.todolist.TodoListIT" time="0.0"/>
+    <testcase name="TodoListIT.testJsonPayloadPatchValidation" classname="com.consol.citrus.samples.todolist.TodoListIT" time="0.0"/>
+    <testcase name="TodoListIT.testJsonPayloadPostValidation" classname="com.consol.citrus.samples.todolist.TodoListIT" time="0.0"/>
+    <testcase name="TodoListIT.testJsonPayloadPutValidation" classname="com.consol.citrus.samples.todolist.TodoListIT" time="0.0"/>
+</testsuite>

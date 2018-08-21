@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<workingSetManager>
+<workingSet editPageId="org.eclipse.ui.resourceWorkingSetPage" factoryID="org.eclipse.ui.internal.WorkingSetFactory" id="1534785776141_1" label="citrus-sample-json" name="citrus-sample-json">
+<item factoryID="org.eclipse.ui.internal.model.ResourceFactory" path="/java-dsl" type="4"/>
+<item factoryID="org.eclipse.ui.internal.model.ResourceFactory" path="/xml" type="4"/>
+</workingSet>
+<workingSet aggregate="true" factoryID="org.eclipse.ui.internal.WorkingSetFactory" id="1534785679308_0" label="Window Working Set" name="Aggregate for window 1534785679307"/>
+</workingSetManager>

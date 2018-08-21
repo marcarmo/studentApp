@@ -1,0 +1,26 @@
+2018-08-20 12:23:05,593 [Worker-5] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.consol.citrus.samples:citrus-java-sample-json:2.7.7-SNAPSHOT @ C:\Users\1208409\Documents\reto\studentApp2\sample-json\java-dsl\pom.xml.
+2018-08-20 12:23:05,672 [Worker-5] WARN  o.e.m.c.i.embedder.EclipseLogger - The POM for com.consol.citrus.samples:citrus-sample-todo:jar:2.7.7-SNAPSHOT is missing, no dependency information available
+2018-08-20 12:23:06,901 [Worker-5] WARN  o.e.m.c.i.embedder.EclipseLogger - The POM for com.sun.xml.bind:jaxb-core:jar:2.2.11 is invalid, transitive dependencies (if any) will not be available, enable debug logging for more details
+2018-08-20 12:23:06,925 [Worker-5] WARN  o.e.m.c.i.embedder.EclipseLogger - The POM for com.sun.xml.bind:jaxb-impl:jar:2.2.11 is invalid, transitive dependencies (if any) will not be available, enable debug logging for more details
+2018-08-20 12:23:10,904 [Worker-5] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.consol.citrus.samples:citrus-xml-sample-json:2.7.7-SNAPSHOT @ C:\Users\1208409\Documents\reto\studentApp2\sample-json\xml\pom.xml.
+2018-08-20 12:23:16,183 [Worker-5] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /java-dsl/src/main/java
+2018-08-20 12:23:16,184 [Worker-5] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /java-dsl/src/test/java
+2018-08-20 12:23:16,184 [Worker-5] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /java-dsl/src/test/resources
+2018-08-20 12:23:16,521 [Worker-5] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /xml/src/main/java
+2018-08-20 12:23:16,522 [Worker-5] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /xml/src/test/java
+2018-08-20 12:23:16,522 [Worker-5] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /xml/src/test/resources
+2018-08-20 12:23:16,673 [Worker-5] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Imported and configured 2 project(s) in 20 sec
+2018-08-20 12:23:17,672 [Worker-7] WARN  o.e.m.c.i.embedder.EclipseLogger - The POM for com.consol.citrus.samples:citrus-sample-todo:jar:2.7.7-SNAPSHOT is missing, no dependency information available
+2018-08-20 12:23:17,776 [Worker-7] WARN  o.e.m.c.i.embedder.EclipseLogger - The POM for com.sun.xml.bind:jaxb-core:jar:2.2.11 is invalid, transitive dependencies (if any) will not be available, enable debug logging for more details
+2018-08-20 12:23:17,783 [Worker-7] WARN  o.e.m.c.i.embedder.EclipseLogger - The POM for com.sun.xml.bind:jaxb-impl:jar:2.2.11 is invalid, transitive dependencies (if any) will not be available, enable debug logging for more details
+2018-08-20 12:23:18,376 [Worker-7] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-08-20 12:23:18,376 [Worker-7] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\1208409\Documents\reto\studentApp2\sample-json\java-dsl\src\main\resources
+2018-08-20 12:23:18,378 [Worker-7] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-08-20 12:23:18,383 [Worker-7] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 4 resources
+2018-08-20 12:23:18,401 [Worker-7] WARN  o.e.m.c.i.embedder.EclipseLogger - The POM for com.consol.citrus.samples:citrus-sample-todo:jar:2.7.7-SNAPSHOT is missing, no dependency information available
+2018-08-20 12:23:18,510 [Worker-7] WARN  o.e.m.c.i.embedder.EclipseLogger - The POM for com.sun.xml.bind:jaxb-core:jar:2.2.11 is invalid, transitive dependencies (if any) will not be available, enable debug logging for more details
+2018-08-20 12:23:18,528 [Worker-7] WARN  o.e.m.c.i.embedder.EclipseLogger - The POM for com.sun.xml.bind:jaxb-impl:jar:2.2.11 is invalid, transitive dependencies (if any) will not be available, enable debug logging for more details
+2018-08-20 12:23:18,903 [Worker-7] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-08-20 12:23:18,903 [Worker-7] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\1208409\Documents\reto\studentApp2\sample-json\xml\src\main\resources
+2018-08-20 12:23:18,905 [Worker-7] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-08-20 12:23:18,906 [Worker-7] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 6 resources

@@ -1,0 +1,177 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="5" passed="5">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="2257" started-at="2018-08-21T00:28:39Z" finished-at="2018-08-21T00:28:41Z">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="2257" started-at="2018-08-21T00:28:39Z" finished-at="2018-08-21T00:28:41Z">
+      <class name="com.consol.citrus.samples.todolist.TodoListIT">
+        <test-method status="PASS" signature="beforeSuite(org.testng.ITestContext)[pri:0, instance:com.consol.citrus.samples.todolist.TodoListIT@1209819]" name="beforeSuite" is-config="true" duration-ms="1177" started-at="2018-08-21T00:28:38Z" finished-at="2018-08-21T00:28:39Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[org.testng.TestRunner@12fc69e]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeSuite -->
+        <test-method status="PASS" signature="springTestContextBeforeTestClass()[pri:0, instance:com.consol.citrus.samples.todolist.TodoListIT@1209819]" name="springTestContextBeforeTestClass" is-config="true" duration-ms="1" started-at="2018-08-21T00:28:39Z" finished-at="2018-08-21T00:28:39Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- springTestContextBeforeTestClass -->
+        <test-method status="PASS" signature="springTestContextPrepareTestInstance()[pri:0, instance:com.consol.citrus.samples.todolist.TodoListIT@1209819]" name="springTestContextPrepareTestInstance" is-config="true" duration-ms="1" started-at="2018-08-21T00:28:39Z" depends-on-methods="org.springframework.test.context.testng.AbstractTestNGSpringContextTests.springTestContextBeforeTestClass" finished-at="2018-08-21T00:28:39Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- springTestContextPrepareTestInstance -->
+        <test-method status="PASS" signature="springTestContextBeforeTestMethod(java.lang.reflect.Method)[pri:0, instance:com.consol.citrus.samples.todolist.TodoListIT@1209819]" name="springTestContextBeforeTestMethod" is-config="true" duration-ms="1" started-at="2018-08-21T00:28:39Z" finished-at="2018-08-21T00:28:39Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[public void com.consol.citrus.samples.todolist.TodoListIT.testJsonPayloadDeleteValidation()]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- springTestContextBeforeTestMethod -->
+        <test-method status="PASS" signature="testJsonPayloadDeleteValidation()[pri:0, instance:com.consol.citrus.samples.todolist.TodoListIT@1209819]" name="testJsonPayloadDeleteValidation" duration-ms="1212" started-at="2018-08-21T00:28:39Z" finished-at="2018-08-21T00:28:40Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testJsonPayloadDeleteValidation -->
+        <test-method status="PASS" signature="springTestContextAfterTestMethod(java.lang.reflect.Method)[pri:0, instance:com.consol.citrus.samples.todolist.TodoListIT@1209819]" name="springTestContextAfterTestMethod" is-config="true" duration-ms="0" started-at="2018-08-21T00:28:40Z" finished-at="2018-08-21T00:28:40Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[public void com.consol.citrus.samples.todolist.TodoListIT.testJsonPayloadDeleteValidation()]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- springTestContextAfterTestMethod -->
+        <test-method status="PASS" signature="springTestContextBeforeTestMethod(java.lang.reflect.Method)[pri:0, instance:com.consol.citrus.samples.todolist.TodoListIT@1209819]" name="springTestContextBeforeTestMethod" is-config="true" duration-ms="1" started-at="2018-08-21T00:28:40Z" finished-at="2018-08-21T00:28:40Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[public void com.consol.citrus.samples.todolist.TodoListIT.testJsonPayloadGetValidation()]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- springTestContextBeforeTestMethod -->
+        <test-method status="PASS" signature="testJsonPayloadGetValidation()[pri:0, instance:com.consol.citrus.samples.todolist.TodoListIT@1209819]" name="testJsonPayloadGetValidation" duration-ms="330" started-at="2018-08-21T00:28:40Z" finished-at="2018-08-21T00:28:41Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testJsonPayloadGetValidation -->
+        <test-method status="PASS" signature="springTestContextAfterTestMethod(java.lang.reflect.Method)[pri:0, instance:com.consol.citrus.samples.todolist.TodoListIT@1209819]" name="springTestContextAfterTestMethod" is-config="true" duration-ms="0" started-at="2018-08-21T00:28:41Z" finished-at="2018-08-21T00:28:41Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[public void com.consol.citrus.samples.todolist.TodoListIT.testJsonPayloadGetValidation()]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- springTestContextAfterTestMethod -->
+        <test-method status="PASS" signature="springTestContextBeforeTestMethod(java.lang.reflect.Method)[pri:0, instance:com.consol.citrus.samples.todolist.TodoListIT@1209819]" name="springTestContextBeforeTestMethod" is-config="true" duration-ms="1" started-at="2018-08-21T00:28:41Z" finished-at="2018-08-21T00:28:41Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[public void com.consol.citrus.samples.todolist.TodoListIT.testJsonPayloadPatchValidation()]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- springTestContextBeforeTestMethod -->
+        <test-method status="PASS" signature="testJsonPayloadPatchValidation()[pri:0, instance:com.consol.citrus.samples.todolist.TodoListIT@1209819]" name="testJsonPayloadPatchValidation" duration-ms="261" started-at="2018-08-21T00:28:41Z" finished-at="2018-08-21T00:28:41Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testJsonPayloadPatchValidation -->
+        <test-method status="PASS" signature="springTestContextAfterTestMethod(java.lang.reflect.Method)[pri:0, instance:com.consol.citrus.samples.todolist.TodoListIT@1209819]" name="springTestContextAfterTestMethod" is-config="true" duration-ms="2" started-at="2018-08-21T00:28:41Z" finished-at="2018-08-21T00:28:41Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[public void com.consol.citrus.samples.todolist.TodoListIT.testJsonPayloadPatchValidation()]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- springTestContextAfterTestMethod -->
+        <test-method status="PASS" signature="springTestContextBeforeTestMethod(java.lang.reflect.Method)[pri:0, instance:com.consol.citrus.samples.todolist.TodoListIT@1209819]" name="springTestContextBeforeTestMethod" is-config="true" duration-ms="1" started-at="2018-08-21T00:28:41Z" finished-at="2018-08-21T00:28:41Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[public void com.consol.citrus.samples.todolist.TodoListIT.testJsonPayloadPostValidation()]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- springTestContextBeforeTestMethod -->
+        <test-method status="PASS" signature="testJsonPayloadPostValidation()[pri:0, instance:com.consol.citrus.samples.todolist.TodoListIT@1209819]" name="testJsonPayloadPostValidation" duration-ms="265" started-at="2018-08-21T00:28:41Z" finished-at="2018-08-21T00:28:41Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testJsonPayloadPostValidation -->
+        <test-method status="PASS" signature="springTestContextAfterTestMethod(java.lang.reflect.Method)[pri:0, instance:com.consol.citrus.samples.todolist.TodoListIT@1209819]" name="springTestContextAfterTestMethod" is-config="true" duration-ms="1" started-at="2018-08-21T00:28:41Z" finished-at="2018-08-21T00:28:41Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[public void com.consol.citrus.samples.todolist.TodoListIT.testJsonPayloadPostValidation()]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- springTestContextAfterTestMethod -->
+        <test-method status="PASS" signature="springTestContextBeforeTestMethod(java.lang.reflect.Method)[pri:0, instance:com.consol.citrus.samples.todolist.TodoListIT@1209819]" name="springTestContextBeforeTestMethod" is-config="true" duration-ms="1" started-at="2018-08-21T00:28:41Z" finished-at="2018-08-21T00:28:41Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[public void com.consol.citrus.samples.todolist.TodoListIT.testJsonPayloadPutValidation()]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- springTestContextBeforeTestMethod -->
+        <test-method status="PASS" signature="testJsonPayloadPutValidation()[pri:0, instance:com.consol.citrus.samples.todolist.TodoListIT@1209819]" name="testJsonPayloadPutValidation" duration-ms="142" started-at="2018-08-21T00:28:41Z" finished-at="2018-08-21T00:28:41Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testJsonPayloadPutValidation -->
+        <test-method status="PASS" signature="springTestContextAfterTestMethod(java.lang.reflect.Method)[pri:0, instance:com.consol.citrus.samples.todolist.TodoListIT@1209819]" name="springTestContextAfterTestMethod" is-config="true" duration-ms="0" started-at="2018-08-21T00:28:41Z" finished-at="2018-08-21T00:28:41Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[public void com.consol.citrus.samples.todolist.TodoListIT.testJsonPayloadPutValidation()]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- springTestContextAfterTestMethod -->
+        <test-method status="PASS" signature="springTestContextAfterTestClass()[pri:0, instance:com.consol.citrus.samples.todolist.TodoListIT@1209819]" name="springTestContextAfterTestClass" is-config="true" duration-ms="0" started-at="2018-08-21T00:28:41Z" finished-at="2018-08-21T00:28:41Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- springTestContextAfterTestClass -->
+        <test-method status="PASS" signature="afterSuite(org.testng.ITestContext)[pri:0, instance:com.consol.citrus.samples.todolist.TodoListIT@1209819]" name="afterSuite" is-config="true" duration-ms="39" started-at="2018-08-21T00:28:41Z" finished-at="2018-08-21T00:28:41Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[org.testng.TestRunner@12fc69e]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterSuite -->
+      </class> <!-- com.consol.citrus.samples.todolist.TodoListIT -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
