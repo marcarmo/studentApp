@@ -58,9 +58,7 @@ public class TodoListIT extends TestNGCitrusTestDesigner {
 	    variable("strEmail", "citrus:concat(citrus:randomString(10),'@losgmail.com')");
 	    variable("strProgramme","2" );
 	    variable("strCourses", "[\"curso1\",\"curso2\"]" );
-   	
-    //	obj.variablesTestJson();
-        
+   	        
         http()
             .client(todoStudent)
             .send()
@@ -76,7 +74,6 @@ public class TodoListIT extends TestNGCitrusTestDesigner {
             .messageType(MessageType.JSON);
     }
     
-
     @Test
 	@CitrusTest
     public void testJsonPayloadPutValidation() {
