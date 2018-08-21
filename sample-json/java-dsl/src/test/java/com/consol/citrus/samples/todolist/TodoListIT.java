@@ -58,8 +58,7 @@ public class TodoListIT extends TestNGCitrusTestDesigner {
 	    variable("strProgramme","2" );
 	    variable("strCourses", "[\"curso1\",\"curso2\"]" );
    	
-    //	obj.variablesTestJson();
-        
+         
         http()
             .client(todoStudent)
             .send()
