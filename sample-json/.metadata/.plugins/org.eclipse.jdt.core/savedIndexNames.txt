@@ -1,0 +1,20 @@
+INDEX VERSION 1.130+C:\Users\1208409\Documents\reto\studentApp2\sample-json\.metadata\.plugins\org.eclipse.jdt.core
+2089866313.index
+1102846136.index
+1074673958.index
+2401290100.index
+517093290.index
+1043098581.index
+2553766289.index
+3778601464.index
+3023891206.index
+2278286196.index
+957297929.index
+3339895096.index
+977075862.index
+1606117680.index
+2370855903.index
+1848274551.index
+3681743711.index
+4271705704.index
+3887861183.index
